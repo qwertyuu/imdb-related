@@ -1,9 +1,3 @@
-# consumption-notifier
- notifies lte consumption
+# imdb-related
 
-
-docker build -t rphlct/consumption-notifier:latest . 
-
-docker run --name consumption-notifier -d consumption-notifier
-
-docker push rphlct/consumption-notifier:latest
+va chercher les relateds sur imdb
